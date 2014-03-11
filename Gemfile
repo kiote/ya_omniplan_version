@@ -6,7 +6,7 @@ gem 'sqlite3'
 gem 'puma'
 gem 'draper'
 gem 'carrierwave'
-gem "fog"
+gem 'fog'
 gem 'mini_magick'
 gem 'cocoon'
 gem 'sidekiq'
@@ -39,7 +39,7 @@ gem 'backup'
 
 gem 'http_accept_language'
 gem 'redcarpet'
-gem 'configus'
+gem 'configatron'
 gem 'russian'
 gem 'validates'
 gem 'state_machine', github: "seuros/state_machine"
